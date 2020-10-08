@@ -4,9 +4,9 @@ This is a really simple project that shows the usage of Next.js with TypeScript.
 
 ## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com):
+Deploy the example using [Netlify](https://netlify.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-typescript)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/garrypolley/with-typescript-app)
 
 ## How to use it?
 
@@ -18,7 +18,6 @@ npx create-next-app --example with-typescript with-typescript-app
 yarn create next-app --example with-typescript with-typescript-app
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
 ## Notes
 
